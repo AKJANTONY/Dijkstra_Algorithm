@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: John Bosco
+Build-Jdk: 9.0.4
+Implementation-Title: MyWepApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.just
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MyWepApp
+Created-By: Maven Integration for Eclipse
+
