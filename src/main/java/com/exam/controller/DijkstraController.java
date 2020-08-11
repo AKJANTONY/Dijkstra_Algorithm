@@ -30,6 +30,7 @@ public class DijkstraController {
 	
 	@RequestMapping(value = "/logout", method = RequestMethod.GET)
 	public String homeMethod() {
+		System.out.println("login method..........");
 		return "login";
 	}
 	
